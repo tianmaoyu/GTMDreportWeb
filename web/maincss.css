@@ -1,0 +1,15 @@
+.main{
+  margin-top: 20px;
+}
+.marked{
+  border: dashed;
+  height: 1500px;
+}
+.mark{
+  border: 1px blue;
+}
+.cc{
+  border: dotted;
+  height: 400px;
+  width: 400px;
+}
